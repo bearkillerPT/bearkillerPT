@@ -1,23 +1,41 @@
-<h2 align="left">Hey! My name is Gil Teixeira and I'm a Fullstack Developer.</h2>
-<h5>
-I've a lot of experience with C, Python3, NodeJS, ReactJS and React Native and have even contributed to the Expo SDK. Please check my website for a better overview of my work! 
-</h5>
+<h2 align="left">Hi, I'm Gil!</h2>
 
-#
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bearkillerPT&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" width="350" alt="stats graph"  />
+<p>
+Full-stack developer working primarily with Node.js and Python3 backends + React and React Native (with Expo) frontends. On my free time, I like to develop:
+<ul>
+  <li>
+  Automation tools/bots in Python3, using Playwright, OpenCV and PyAutoGUI, to streamline workflows and eliminate repetitive tasks. 
+  </li>
+  <li>
+    Chrome extensions with NodeJS and Typescript to, i.e., add an accessibility focused browser search tool, automate a supermarket cart/basket sharing with import and export features and a move effectiveness extension for PokeRogue. 
+  </li>
+</ul>
+</p>
+
+<br/>
+<div>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bearkillerPT&show_icons=true&theme=dracula&cache_seconds=86400" height="150"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bearkillerPT&layout=compact&theme=dracula&cache_seconds=86400" height="150"/>
 </div>
 
-###
+<br/>
 
-<div align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/gil-teixeira-ba5036135/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
   </a>
-  <br/>
-<a href="https://bearkillerPT.xyz" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=My+Website&label=&color=fe7f2d&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  &nbsp;&nbsp;
+  <a href="https://bearkillerPT.xyz" target="_blank">
+    <img src="https://img.shields.io/badge/Website-fe7f2d?style=for-the-badge&logo=google-chrome&logoColor=white" height="35" />
   </a>
-</div>
+</p>
 
+<p>
+My background includes low-level systems work. I've implemented a 5-stage pipelined MIPS CPU in VHDL, running assembly programs (hand-converted from C) on FPGA hardware. I also have some freelancing experience in embedded systems using ESP32 and Zephyr RTOS, including mobile-based WiFi provisioning, circuit design for control systems, sensor integration, and MQTT communication.
+</p>
+
+<p>
+At Instituto de Telecomunicações, my Master's thesis focused on a mobile application for Cooperative Intelligent Transport Systems (C-ITS) built with React Native and Expo. In that context, I contributed to the Expo SDK by implementing the Android light sensor module, released in SDK 47. I also implemented an ETSI layered architecture in C++ for on-board and road-side units, handling ASN.1-defined message exchanges for charging station discovery, status, and reservations. To interface with modern web applications, I worked on a compiler converting UPER and XML messages to JSON.
+</p>
